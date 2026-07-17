@@ -2,9 +2,9 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pranav%20N%20J&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ML%20%2B%20Full-Stack%20Engineer%20%7C%20Building%20AI-Powered%20Safety%20%26%20Security%20Systems&descAlignY=62&descSize=16)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Information+Science+Undergrad+%40+SIT;ML+%2B+MERN+Stack+Developer;Building+Phishing+Detection+%40+93.89%25+Accuracy;SIH+2025+Selected+Participant" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Information+Science+Undergrad+%40+SIT;ML+%2B+MERN+Stack+Developer;Building+Phishing+Detection+%40+93.89%25+Accuracy;SIH+2025+Selected+Participant" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=Pranav-NJ&label=Profile+Views&color=70a5fd&style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Pranav-NJ&amp;label=Profile+Views&amp;color=70a5fd&amp;style=flat-square" alt="profile views" />
 
 </div>
 
@@ -73,29 +73,29 @@ print(me.motto())
 <div align="center">
 
 <a href="https://github.com/Pranav-NJ">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pranav-NJ&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pranav-NJ&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10" />
 </a>
 <a href="https://github.com/Pranav-NJ">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-NJ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-NJ&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10" />
 </a>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Pranav-NJ&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Pranav-NJ&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0D1117&amp;ring=70A5FD&amp;fire=BF91F3&amp;currStreakLabel=70A5FD&amp;sideLabels=38BDAE&amp;dates=8B949E&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;stroke=0D1117&amp;border_radius=10" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav-NJ&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav-NJ&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;hide_border=true" alt="Activity Graph" width="95%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Pranav-NJ&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Pranav-NJ&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=4" alt="Trophies" />
 
 </div>
 
@@ -174,6 +174,9 @@ print(me.motto())
 <br>
 
 ## 📚 Currently Learning
+🧱 System Design      → Scalability, Load Balancing, Caching
+🤖 LLM Pipelines      → RAG, Prompt Engineering, Fine-tuning
+☁️ Cloud & DevOps     → Docker, CI/CD, Deployment Pipelines
 
 <br>
 
@@ -187,4 +190,4 @@ print(me.motto())
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=
