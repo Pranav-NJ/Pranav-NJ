@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pranav%20N%20J&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ML%20%2B%20Full-Stack%20Engineer%20%7C%20Building%20AI-Powered%20Safety%20%26%20Security%20Systems&descAlignY=62&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pranav%20N%20J&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Information+Science+Undergrad+%40+SIT;ML+%2B+MERN+Stack+Developer;Building+Phishing+Detection+%40+93.89%25+Accuracy;SIH+2025+Selected+Participant" alt="Typing SVG" />
 
@@ -24,7 +24,6 @@ class Pranav:
         self.stack      = ["C++", "Python", "JavaScript",
                             "React.js", "Node.js", "FastAPI"]
         self.currently_learning = ["System Design", "LLM Pipelines"]
-        self.fun_fact   = "Certified NCC Cadet who mentored 20-30 junior cadets"
 
     def motto(self):
         return "Ship it, measure it, then make it faster."
