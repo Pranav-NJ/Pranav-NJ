@@ -140,10 +140,7 @@ Real-time infrastructure monitoring system featuring
 
 # 📊 GitHub Statistics
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pranav-NJ&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-NJ&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranav-NJ&theme=tokyonight"/>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Pranav-NJ&theme=tokyonight&hide_border=true"/>
@@ -159,23 +156,7 @@ Real-time infrastructure monitoring system featuring
 
 ---
 
-# 💼 Coding Profiles
 
-<p align="center">
-<a href="YOUR_LEETCODE_URL">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="YOUR_CODEFORCES_URL">
-<img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge"/>
-</a>
-
-<a href="YOUR_HACKERRANK_URL">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
-</a>
-</p>
-
----
 
 # 🌱 Current Focus
 
