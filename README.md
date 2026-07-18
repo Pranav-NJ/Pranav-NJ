@@ -11,7 +11,7 @@
   <a href="www.linkedin.com/in/pranav-n-j-2928932a0">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="[YOUR_PORTFOLIO_URL](https://pranavnj-portfolio.vercel.app/)">
+  <a href="https://pranavnj-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="mailto:pranav984530@gmail.com">
