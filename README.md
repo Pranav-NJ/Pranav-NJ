@@ -8,7 +8,7 @@
   <a href="https://github.com/Pranav-NJ">
     <img src="https://img.shields.io/github/followers/Pranav-NJ?style=for-the-badge&logo=github&label=Followers"/>
   </a>
-  <a href="www.linkedin.com/in/pranav-n-j-2928932a0">
+  <a href="https://www.linkedin.com/in/pranav-n-j-2928932a0/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://pranavnj-portfolio.vercel.app/">
