@@ -8,10 +8,10 @@
   <a href="https://github.com/Pranav-NJ">
     <img src="https://img.shields.io/github/followers/Pranav-NJ?style=for-the-badge&logo=github&label=Followers"/>
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/pranav-n-j-2928932a0">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="[YOUR_PORTFOLIO_URL](https://pranavnj-portfolio.vercel.app/)">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="mailto:pranav984530@gmail.com">
@@ -27,7 +27,7 @@
 
 📍 Tumakuru, Karnataka, India
 
-📊 **CGPA:** **9.38 / 10**
+📊 **CGPA:** **9.36 / 10**
 
 💻 Passionate about
 
@@ -126,7 +126,7 @@ Real-time infrastructure monitoring system featuring
 
 # 🏆 Achievements
 
-🏅 Smart India Hackathon 2025 Participant
+🏅 Smart India Hackathon 2025 
 
 🚀 National Space Hackathon – IIT Delhi
 
@@ -134,7 +134,7 @@ Real-time infrastructure monitoring system featuring
 
 🎖️ NCC Cadet
 
-📈 9.38 CGPA
+📈 9.36 CGPA
 
 ---
 
